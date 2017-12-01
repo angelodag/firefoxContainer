@@ -8,3 +8,6 @@ Docker PulseAudio Example https://github.com/TheBiggerGuy/docker-pulseaudio-exam
 
 https://askubuntu.com/questions/972510/how-to-set-alsa-default-device-to-pulseaudio-sound-server-on-docker
 
+Build with:
+
+docker build -t firefox .
